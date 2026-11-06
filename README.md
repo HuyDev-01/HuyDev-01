@@ -61,7 +61,7 @@
   <a href="mailto:legiahuytd0186@cdtaydo.edu.vn">
     <img src="https://shields.io" alt="Gmail" />
   </a>
-  <a href="https://www.facebook.com/HuyIT.01/" target="_blank">
+  <a href="https://facebook.com" target="_blank">
     <img src="https://shields.io" alt="Facebook" />
   </a>
 </p>
