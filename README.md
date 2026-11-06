@@ -24,8 +24,7 @@
 ---
 
 ### 📫 Connect with Me
-- 📧 **Email:** legiahuytd0186@cdtaydo.edu.vn
-- 🌐 **Facebook:** [://fb.com](https://facebook.com)
+[Email](mailto:giahuy8075@gmail.com) | [Facebook](https://facebook.com)
 
 ---
 <p align="center">⭐️ Thank you for visiting my profile! Feel free to hit Follow to connect and learn together! ⭐️</p>
